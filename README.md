@@ -1,6 +1,8 @@
 <h1 align="center"><b> Hola, soy Iván 😀 </b></h1>
 
-<div <img src="me.jpg" alt="me" align="center" height="100px" width="100px" border-radius="50%"></div>
+<div align="center">
+<img src="me.png" alt="me" height="200px" width="200px">
+</div>
 
 <h2 align="center"><b> 💻 Estudiante de ASIR 💻 </b></h2>
 
