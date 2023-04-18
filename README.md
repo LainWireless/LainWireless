@@ -1,8 +1,6 @@
 <h1 align="center"><b> Hola, soy Iván 😀 </b></h1>
 
-<p align="center">
-  <img src="me.jpg" alt="Iván Piña Castillo" width="200" height="200" border-radius="50%"/>
-</p>
+<div <img src="me.jpg" alt="me" align="center" height="100px" width="100px" border-radius="50%"></div>
 
 <h2 align="center"><b> 💻 Estudiante de ASIR 💻 </b></h2>
 
