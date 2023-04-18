@@ -1,5 +1,9 @@
 <h1 align="center"><b> Hola, soy Iván 😀 </b></h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QDK1pCI43lGhO/giphy.gif" alt="LainWireless"/>
+</p>
+
 <h2 align="center"><b> 💻 Estudiante de ASIR 💻 </b></h2>
 
 <p align="center">
