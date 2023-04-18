@@ -1,7 +1,7 @@
 <h1 align="center"><b> Hola, soy Iván 😀 </b></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QDK1pCI43lGhO/giphy.gif" alt="LainWireless"/>
+  <img src="me.jpg" alt="Iván Piña Castillo" width="200" height="200" border-radius="50%"/>
 </p>
 
 <h2 align="center"><b> 💻 Estudiante de ASIR 💻 </b></h2>
@@ -191,4 +191,8 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=LainWireless&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="LainWireless" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QDK1pCI43lGhO/giphy.gif" alt="LainWireless"/>
 </p>
