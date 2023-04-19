@@ -108,7 +108,7 @@
 
 ### Sistemas
 
-**- Virtualización:** KVM, LXC, LXD, Docker, Podman, Kubernetes, VMware, VirtualBox, Windows Subsystem for Linux (WSL)**
+**- Virtualización:** KVM, LXC, LXD, Docker, Podman, Kubernetes, VMware, VirtualBox, Windows Subsystem for Linux (WSL)
 
 **- Cloud:** OpenStack, PROXMOX, OpenShift (Serverless, Service Mesh, Knative, Camel K, Kafka, Strimzi, AMQ Streams)
 
