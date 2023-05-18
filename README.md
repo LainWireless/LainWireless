@@ -187,11 +187,16 @@
   <b>Datos sobre mi GitHub:</b>
 </h2>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LainWireless&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="LainWireless" />
-  </a>
-</p>
+<div>
+  <a href="https://github.com/LainWireless">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LainWireless&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&locale=es"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LainWireless&layout=compact&langs_count=7&theme=dracula&border_radius=8&hide_border=true&locale=es"/>
+</div>
+<div>
+  <a href="https://github.com/LainWireless">
+  <img height="160em" src="https://streak-stats.demolab.com?user=LainWireless&theme=dracula&hide_border=true&border_radius=8&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=480"/>
+  <img height="160em" src="https://github-profile-trophy.vercel.app/?username=LainWireless&no-frame=true&row=2&column=3&margin-w=5&margin-h=5&theme=dracula"/>
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QDK1pCI43lGhO/giphy.gif" alt="LainWireless"/>
