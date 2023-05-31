@@ -108,9 +108,9 @@
 
 ### Sistemas
 
-**- Virtualización:** KVM, LXC, LXD, Docker, Podman, Kubernetes, VMware, VirtualBox, Windows Subsystem for Linux (WSL)
+**- Virtualización:** KVM, LXC, LXD, Docker, Podman, Kubernetes, VirtualBox
 
-**- Cloud:** OpenStack, PROXMOX, OpenShift (Serverless, Service Mesh, Knative, Camel K, Kafka, Strimzi, AMQ Streams)
+**- Cloud:** OpenStack, PROXMOX, OpenShift
 
 **- SCM:** Ansible
 
@@ -118,7 +118,11 @@
 
 **- Windows** XP, 7, 10, 2016
 
-**- Otros:** Vagrant
+**- Linux:** Compilación del kérnel y módulos
+  
+**- Monitorización:** Nagios, Grafana, Prometheus
+  
+**- Orquestación:** Vagrant
 
 ### Base de Datos
 
@@ -131,8 +135,6 @@
 ### Redes
 
 **- Administración:** Mantenimiento, Seguridad, OpenVPN, WireWard, VLAN, WiFi, IPv6
-
-**- Seguridad:** OpenSSL, GPG
 
 **- Cisco:** Configuración y gestión de routers, IOS
 
@@ -148,39 +150,43 @@
 
 **- Ficheros en red:** Samba, NFS
 
-**- Firewall:** iptables, nftables
-
 **- DNS y DHCP:** Bind9, DNSMasq, ISC-DHCPv3, Microsoft DNS y DHCP
+  
+**- HA:** Pacemaker y Corosync
 
-**- Otros:** Active Directory, OpenLDAP, Kerberos, SASL
+**- Otros:** Active Directory, OpenLDAP
 
 ### Aplicaciones Web
 
-**- Despliegue:** PHP, Java, Python, Node.js
+**- Despliegue:** PHP, Java, Python(Flask , Gunicorn y uWSGI)
 
 **- Django:** Conocimientos básicos de desarrollo
 
 **- CI/CD:** Jenkins, ArgoCD, Tekton
+  
+**- Marcas:** XML, JSON, YAML, utilización de APIs RESTful
+  
+### Seguridad
+
+**- Almacenamiento:** RAID, ZFS, LVM, OCFS2, GlusterFS, iSCSI
+  
+**- Copias de seguridad:** Rsync, tar, rclone y Clonezilla
+  
+**- Criptografía:** OpenSSL, GPG
+  
+**- Firewall:** iptables, nftables
+
+**- Otras herramientas:** Snort, Nessus, TripWire, RKHunter, Hydra, Medusa, SFC, John the Ripper
 
 ### Otros
 
+**- Versiones:** Git, Github
+  
 **- Programación:** Python y Bash
 
 **- Proyectos:** Redmine, Trello
 
-**- Seguridad:** Snort, Nessus, TripWire, RKHunter, Hydra, Medusa, SFC, John the Ripper
 
-**- Almacenamiento:** RAID, ZFS, LVM, OCFS2, GlusterFS, iSCSI
-
-**- Monitorización:** Nagios, Grafana, Prometheus
-
-**- HA:** Pacemaker y Corosync
-
-**- Marcas:** XML, JSON, YAML, utilización de APIs RESTful
-
-**- Linux:** Compilación del kérnel y módulos
-
-**- Versiones:** Git, Github
 
 
 <h2 align="center">
