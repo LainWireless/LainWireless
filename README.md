@@ -182,6 +182,10 @@
 
 **- Versiones:** Git, Github
   
+**- Lenguaje de marcado:** Markdown, AsciiDoc
+  
+**- Marcos de trabajo:** SCRUM
+  
 **- Programación:** Python y Bash
 
 **- Proyectos:** Redmine, Trello
