@@ -87,7 +87,7 @@
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
     </a>
     <a href="https://podman.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://podman.io/images/podman.svg" alt="podman" width="40" height="40"/>
+        <img src="https://podman.io/logos/optimized/podman-3-logo-95w-90h.webp" alt="podman" width="40" height="40"/>
     </a>
     <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
