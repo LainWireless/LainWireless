@@ -110,7 +110,7 @@
 
 **- Virtualización:** KVM, LXC, LXD, Docker, Podman, Kubernetes, VirtualBox
 
-**- Cloud:** OpenStack, PROXMOX, OpenShift
+**- Cloud:** OpenStack, PROXMOX, OpenShift, Knative, Serverless
 
 **- SCM:** Ansible
 
