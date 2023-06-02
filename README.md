@@ -108,9 +108,9 @@
 
 ### Sistemas
 
-**- Virtualización:** KVM, LXC, LXD, Docker, Podman, Kubernetes, VirtualBox
+**- Virtualización:** KVM, LXC, LXD, Docker, Podman, Kubernetes, VirtualBox, Knative, Serverless
 
-**- Cloud:** OpenStack, PROXMOX, OpenShift, Knative, Serverless
+**- Cloud:** OpenStack, PROXMOX, OpenShift
 
 **- SCM:** Ansible
 
