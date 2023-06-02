@@ -170,7 +170,7 @@
 
 **- Almacenamiento:** RAID, ZFS, LVM, OCFS2, GlusterFS, iSCSI
   
-**- Copias de seguridad:** Rsync, tar, rclone y Clonezilla
+**- Copias de seguridad:** Rsync, tar, rclone, Bacula y Clonezilla
   
 **- Criptografía:** OpenSSL, GPG
   
