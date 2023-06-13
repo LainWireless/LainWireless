@@ -108,9 +108,12 @@
 
 ### Sistemas
 
-**- Virtualización:** KVM, LXC, LXD, Docker, Podman, Kubernetes, VirtualBox, Knative, Serverless
+**- Virtualización:** KVM, LXC, LXD, Docker, Podman, Kubernetes, VirtualBox
 
 **- Cloud Computing:** OpenStack, PROXMOX, OpenShift, AWS
+  
+**- Openshift Service Mesh:** Istio, Maistra, Jaeger, ElasticSearch, 3scale, Grafana, Kiali, Prometheus
+**- Openshift Serverless:** Knative Serving, Knative Eventing, Openshift Serverless Functions
 
 **- Infraestructura como código:** Terraform, Crossplane
 
@@ -122,7 +125,7 @@
 
 **- Linux:** Compilación del kérnel y módulos
   
-**- Monitorización:** Nagios, Grafana, Prometheus
+**- Monitorización clásica:** Nagios, Grafana, Prometheus
   
 **- Otros:** Vagrant
 
