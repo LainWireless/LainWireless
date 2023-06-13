@@ -110,7 +110,9 @@
 
 **- Virtualización:** KVM, LXC, LXD, Docker, Podman, Kubernetes, VirtualBox, Knative, Serverless
 
-**- Cloud:** OpenStack, PROXMOX, OpenShift
+**- Cloud Computing:** OpenStack, PROXMOX, OpenShift, AWS
+
+**- Infraestructura como código:** Terraform, Crossplane
 
 **- SCM:** Ansible
 
@@ -122,7 +124,7 @@
   
 **- Monitorización:** Nagios, Grafana, Prometheus
   
-**- Orquestación:** Vagrant
+**- Otros:** Vagrant
 
 ### Base de Datos
 
