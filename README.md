@@ -110,8 +110,6 @@
 
 Debian, Ubuntu, CentOS, RockyLinux, RHEL, openSUSE / Compilación del kérnel y módulos
 
-
-
 **𝐖𝐢𝐧𝐝𝐨𝐰𝐬**
 
 XP, 7, 10, 2016 
