@@ -4,7 +4,7 @@
 <img src="me.png" alt="me" height="200px" width="200px">
 </div>
 
-<h2 align="center"><b> 💻 Estudiante de ASIR 💻 </b></h2>
+<h2 align="center"><b> 💻 SysAdmin & DevOps 💻 </b></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ivan-pina-castillo/">
