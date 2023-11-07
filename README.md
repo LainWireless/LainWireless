@@ -107,15 +107,19 @@
 </p>
 
 **𝐆𝐍𝐔/𝐋𝐢𝐧𝐮𝐱**
+
 Debian, Ubuntu, CentOS, RockyLinux, RHEL, openSUSE / Compilación del kérnel y módulos
 
 **𝐖𝐢𝐧𝐝𝐨𝐰𝐬**
+
 XP, 7, 10, 2016 
 
 **𝐕𝐢𝐫𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜𝐢ó𝐧**
+
 KVM, LXC, LXD / VirtualBox, VMware / Vagrant / PROXMOX
 
 **𝐂𝐨𝐧𝐭𝐞𝐧𝐞𝐝𝐨𝐫𝐞𝐬**
+
 Docker, Podman
 
 **𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬**
