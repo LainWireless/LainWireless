@@ -106,97 +106,110 @@
     </a>
 </p>
 
-### Sistemas
+### 𝐆𝐍𝐔/𝐋𝐢𝐧𝐮𝐱
+Debian, Ubuntu, CentOS, RockyLinux, RHEL, openSUSE / Compilación del kérnel y módulos
 
-**- Virtualización:** KVM, LXC, LXD, Docker, Podman, Kubernetes, VirtualBox
+### 𝐖𝐢𝐧𝐝𝐨𝐰𝐬
+XP, 7, 10, 2016 
 
-**- Cloud Computing:** OpenStack, PROXMOX, OpenShift, AWS
-  
-**- Openshift Service Mesh:** Istio, Maistra, Jaeger, ElasticSearch, 3scale, Grafana, Kiali, Prometheus
-**- Openshift Serverless:** Knative Serving, Knative Eventing, Openshift Serverless Functions
+### 𝐕𝐢𝐫𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜𝐢ó𝐧
+KVM, LXC, LXD / VirtualBox, VMware / Vagrant / PROXMOX
 
-**- Infraestructura como código:** Terraform, Crossplane
+### 𝐂𝐨𝐧𝐭𝐞𝐧𝐞𝐝𝐨𝐫𝐞𝐬
+Docker, Podman
 
-**- SCM:** Ansible
+### 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬
+K8s, K3s, OpenShift, EKS
 
-**- GNU/Linux** (Debian, Ubuntu, CentOS, RockyLinux, RHEL)
+### 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠
+OpenStack, AWS, Azure
 
-**- Windows** XP, 7, 10, 2016
+### 𝐒𝐂𝐌
+Ansible
 
-**- Linux:** Compilación del kérnel y módulos
-  
-**- Monitorización clásica:** Nagios, Grafana, Prometheus
-  
-**- Otros:** Vagrant
+### 𝐈𝐧𝐟𝐫𝐚𝐞𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐚 𝐜𝐨𝐦𝐨 𝐜ó𝐝𝐢𝐠𝐨
+Terraform, Crossplane
 
-### Base de Datos
+### 𝐂𝐈/𝐂𝐃
+Jenkins, ArgoCD, Tekton 
 
-**- Lenguajes:** SQL, PL/SQL, PL/PgSQL
+### 𝐌𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐳𝐚𝐜𝐢ó𝐧
+Nagios, Grafana, Prometheus, Zabbix
 
-**- Administración:** Oracle
+### 𝐒𝐆𝐁𝐃
+Oracle, MySQL, MariaDB, PostgreSQL, MongoDB 
 
-**- SGBD:** Access, Oracle, MySQL, PostgreSQL, MongoDB
+### 𝐋𝐞𝐧𝐠𝐮𝐚𝐣𝐞𝐬 𝐝𝐞 𝐁𝐚𝐬𝐞 𝐝𝐞 𝐃𝐚𝐭𝐨𝐬
+PL/SQL, PL/PgSQL 
 
-### Redes
+### 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐜𝐢ó𝐧 𝐝𝐞 𝐑𝐞𝐝𝐞𝐬
+Mantenimiento, Seguridad, OpenVPN, WireWard, VLAN, WiFi, IPv6 
 
-**- Administración:** Mantenimiento, Seguridad, OpenVPN, WireWard, VLAN, WiFi, IPv6
+### 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐜𝐢ó𝐧 𝐑𝐨𝐮𝐭𝐞𝐫𝐬 𝐂𝐢𝐬𝐜𝐨
+Configuración y gestión de routers, IOS 
 
-**- Cisco:** Configuración y gestión de routers, IOS
+### 𝐒𝐰𝐢𝐭𝐜𝐡𝐢𝐧𝐠
+VLAN, QoS, Port Trunking, SNMP, Linux bridge 
 
-**- Switching:** VLAN, QoS, Port Trunking, SNMP, Linux bridge
+### 𝐒𝐞𝐫𝐯𝐢𝐜𝐢𝐨𝐬 𝐝𝐞 𝐀𝐜𝐜𝐞𝐬𝐨 𝐑𝐞𝐦𝐨𝐭𝐨
+SSH, AnyDesk, TeamViewer, VNC, Escritorio Remoto de Windows 
 
-### Servicios
+### 𝐒𝐞𝐫𝐯𝐢𝐜𝐢𝐨𝐬 𝐝𝐞 𝐂𝐨𝐫𝐫𝐞𝐨-𝐞
+Postfix, Squirrelmail, Dovecot, Spamassassin, Spamd, Clamav 
 
-**- Acceso remoto:** SSH, AnyDesk, TeamViewer, VNC, Escritorio Remoto de Windows
+### 𝐒𝐞𝐫𝐯𝐢𝐜𝐢𝐨𝐬 𝐖𝐞𝐛
+Apache, Nginx, IIS, Tomcat, HA-Proxy 
 
-**- Correo-e:** Postfix, Squirrelmail, Dovecot, Spamassassin, Spamd, Clamav
+### 𝐒𝐞𝐫𝐯𝐢𝐜𝐢𝐨𝐬 𝐝𝐞 𝐅𝐢𝐜𝐡𝐞𝐫𝐨𝐬 𝐞𝐧 𝐑𝐞𝐝
+Samba, NFS 
 
-**- Web:** Apache, Nginx, IIS, Tomcat, HA-Proxy
+### 𝐒𝐞𝐫𝐯𝐢𝐜𝐢𝐨𝐬 𝐝𝐞 𝐃𝐍𝐒 𝐲 𝐃𝐇𝐂𝐏
+Bind9, DNSMasq, ISC-DHCPv3, Microsoft DNS y DHCP 
 
-**- Ficheros en red:** Samba, NFS
+### 𝐒𝐞𝐫𝐯𝐢𝐜𝐢𝐨𝐬 𝐝𝐞 𝐀𝐥𝐭𝐚 𝐃𝐢𝐬𝐩𝐨𝐧𝐢𝐛𝐢𝐥𝐢𝐝𝐚𝐝
+Pacemaker y Corosync 
 
-**- DNS y DHCP:** Bind9, DNSMasq, ISC-DHCPv3, Microsoft DNS y DHCP
-  
-**- HA:** Pacemaker y Corosync
+### 𝐎𝐭𝐫𝐨𝐬 𝐒𝐞𝐫𝐯𝐢𝐜𝐢𝐨𝐬
+Active Directory, OpenLDAP 
 
-**- Otros:** Active Directory, OpenLDAP
+### 𝐃𝐞𝐬𝐩𝐥𝐢𝐞𝐠𝐮𝐞 𝐝𝐞 𝐀𝐩𝐥𝐢𝐜𝐚𝐜𝐢𝐨𝐧𝐞𝐬 𝐖𝐞𝐛
+PHP, Java, Python(Flask , Gunicorn y uWSGI) 
 
-### Aplicaciones Web
+### 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 𝐝𝐞 𝐃𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐨 𝐖𝐞𝐛
+Django 
 
-**- Despliegue:** PHP, Java, Python(Flask , Gunicorn y uWSGI)
+### 𝐋𝐞𝐧𝐠𝐮𝐚𝐣𝐞 𝐝𝐞 𝐌𝐚𝐫𝐜𝐚𝐬
+XML, JSON, YAML, utilización de APIs RESTful 
 
-**- Django:** Conocimientos básicos de desarrollo
+### 𝐀𝐥𝐦𝐚𝐜𝐞𝐧𝐚𝐮𝐦𝐢𝐞𝐧𝐭𝐨
+RAID, ZFS, LVM, OCFS2, GlusterFS, iSCSI 
 
-**- CI/CD:** Jenkins, ArgoCD, Tekton
-  
-**- Marcas:** XML, JSON, YAML, utilización de APIs RESTful
-  
-### Seguridad
+### 𝐂𝐨𝐩𝐢𝐚𝐬 𝐝𝐞 𝐬𝐞𝐠𝐮𝐫𝐢𝐝𝐚𝐝
+Rsync, tar, rclone, Bacula y Clonezilla 
 
-**- Almacenamiento:** RAID, ZFS, LVM, OCFS2, GlusterFS, iSCSI
-  
-**- Copias de seguridad:** Rsync, tar, rclone, Bacula y Clonezilla
-  
-**- Criptografía:** OpenSSL, GPG
-  
-**- Firewall:** iptables, nftables
+### 𝐅𝐢𝐫𝐞𝐰𝐚𝐥𝐥
+iptables, nftables 
 
-**- Otras herramientas:** Snort, Nessus, TripWire, RKHunter, Hydra, Medusa, SFC, John the Ripper
+### 𝐂𝐫𝐢𝐩𝐭𝐨𝐠𝐫𝐚𝐟𝐢𝐚
+OpenSSL, GPG 
 
-### Otros
+### 𝐇𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚𝐬 𝐝𝐞 𝐒𝐞𝐠𝐮𝐫𝐢𝐝𝐚𝐝
+Snort, Nessus, TripWire, RKHunter, Hydra, Medusa, SFC, John the Ripper 
 
-**- Versiones:** Git, Github
-  
-**- Lenguaje de marcado:** Markdown, AsciiDoc
-  
-**- Marcos de trabajo:** SCRUM
-  
-**- Programación:** Python y Bash
+### 𝐕𝐞𝐫𝐬𝐢𝐨𝐧𝐞𝐬
+Git, Github, Gitlab 
 
-**- Proyectos:** Redmine, Trello
+### 𝐋𝐞𝐧𝐠𝐮𝐚𝐣𝐞 𝐝𝐞 𝐦𝐚𝐫𝐜𝐚𝐝𝐨
+Markdown, AsciiDoc 
 
+### 𝐌𝐚𝐫𝐜𝐨𝐬 𝐝𝐞 𝐭𝐫𝐚𝐛𝐚𝐣𝐨
+SCRUM, GitOps 
 
+### 𝐏𝐫𝐨𝐲𝐞𝐜𝐭𝐨𝐬
+Redmine, Trello 
 
+### 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐜𝐢ó𝐧
+Python y Bash
 
 <h2 align="center">
   <b>Datos sobre mi GitHub:</b>
