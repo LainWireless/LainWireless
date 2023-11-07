@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=LainWireless&label=Eres%20el%20visitante%20Nº&color=0e75b6&style=for-the-badge" alt="LainWireless"/>
 </p>
 
-- 👨🏻‍💻 Actualmente he acabado las práctica en Kyndryl y terminado el Grado Superior de Administración de Sistemas Informáticos en Red
+- 👨🏻‍💻 Técnico Superior de Administración de Sistemas Informáticos en Red
 
 - 📫 Puedes contactar conmigo vía [email](mailto:ivanpinacastillo2002@gmail.com) o por [LinkedIn](https://www.linkedin.com/in/ivan-pina-castillo/)
 
