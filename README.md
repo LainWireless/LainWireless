@@ -160,7 +160,7 @@
 - **Markup Languages and APIs:** XML, JSON, YAML, utilization of RESTful APIs
 - **Email Services:** Postfix, Squirrelmail, Dovecot, Spamassassin, Spamd, Clamav
 
-### CYBERSECURITY
+### Cybersecurity
 - **Storage:** RAID, ZFS, LVM, OCFS2, GlusterFS, iSCSI
 - **Backups:** Rsync, tar, rclone, Bacula, Clonezilla
 - **Firewall:** iptables, nftables
@@ -173,7 +173,7 @@
 - **Networking:** VLAN, QoS, Port Trunking, SNMP, Linux bridge
 - **Remote Access:** SSH, AnyDesk, TeamViewer, VNC, RDP
 
-### DIRECTORY SERVICES & IDENTITY MANAGEMENT
+### Directory Services & Identity Management
 - **Active Directory**
 - **OpenLDAP**
 
